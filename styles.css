@@ -1,0 +1,264 @@
+body {
+  margin: 0;
+  background-color: #FFF6EA;
+
+}
+
+h1 {
+  margin: 0;
+}
+.top-container {
+  margin-left: 60px;
+}
+
+.heading_headline {
+  margin-left: 600px;
+}
+
+.headline_content{
+  font-style: italic;
+  font-size: 27px;
+  margin-left: 700px;
+  margin-top: 40px;
+}
+
+.headline {
+  font-style: italic;
+  font-size: 35px;
+  background-color: #FFF6EA;
+  margin-top: -288px;
+  margin-left: -540px;
+  height: 255px;
+
+}
+
+
+.Personal_details {
+  width: 300px;
+  height: 220px;
+  float: left;
+  margin-left: -306px;
+  margin-top: -530px;
+  background-color: #383838;
+}
+
+.emaildetails {
+  margin-top: 0px;
+  color: #009DAE;
+  margin-left: 2rem;
+  font-size: 19px;
+}
+
+.email {
+  color: #EFFFFD;
+  margin-left: 110px;
+  margin-top: 0px;
+}
+
+.contact_details {
+  color: #009DAE;
+  margin-left: 4.3rem;
+}
+
+.contact {
+  color: #EFFFFD;
+  margin-left: 90px;
+}
+
+/* .verticle_line {
+  width: 3px;
+  background-color: #FFEDDB;
+  height: 934px;
+  margin-top: -882px;
+  margin-left: -40px;
+  position:absolute;
+  left: 23%;
+} */
+
+/* .verticle_line_2 {
+  width: 3px;
+  background-color: grey;
+  height: 934px;
+  margin-top: -882px;
+  margin-left: 900px;
+  position:absolute;
+  left: 23%;
+} */
+/* #278EA5 */
+.Profile picture {
+  background-color: #278EA5;
+  /* width: 250px;
+  height: 250px; */
+  float: left;
+}
+.intro {
+  font-style: italic;
+  background-color: #FFF6EA;
+  width: 310px;
+  height: 180px;
+  text-align: 150px;
+  margin-left: 590px;
+
+}
+.Skill {
+  font-style: italic;
+  background-color: #FFF6EA;
+  width: 310px;
+  height: 200px;
+  text-align: 350px;
+  margin-left: 900px;
+  color: orange;
+  margin-top: 30px;
+}
+
+.Education {
+  font-style: italic;
+  background-color: #FFF6EA;
+  width: 310px;
+  height: 215px;
+  text-align: 350px;
+  margin-left: 590px;
+  color: orange;
+}
+
+.project {
+  float: right;
+  background-color: #FFF6EA;
+  width: 310px;
+  height: 305px;
+  margin-top: 450px;
+  margin-right: -600px;
+}
+
+.project_title {
+  font-style: italic;
+}
+
+.more_details {
+  background-color: #FFF6EA;
+  width: 750px;
+  height: 300px;
+  float: bottom;
+  margin-left: 500px;
+  margin-top: 930px;
+}
+
+.details {
+  font-size: 70px;
+  margin-left: 50px;
+}
+
+.details_content {
+  font-size: 30px;
+  margin-left: 170px;
+}
+
+.hello_image {
+  background-color: #FFF6EA;
+  text-align: 150px;
+  float: right;
+  margin-right: 185px;
+  margin-top: -305px;
+}
+.skills_images {
+  background-color: #FFF6EA;
+  text-align: 2000px;
+  float: right;
+  margin-right: 800px;
+  margin-top: -270px;
+}
+.Education_images {
+  background-color: #FFF6EA;
+  text-align: 2000px;
+  float: right;
+  margin-right: 340px;
+  margin-top: 80px;
+}
+
+.project_image {
+  background-color: #FFF6EA;
+  text-align: 2000px;
+  float: right;
+  margin-top: 500px;
+  margin-right: 210px;
+}
+
+/* .resume_button {
+  text-align: center;
+  width: 130px;
+  height: 40px;
+  font-size: 20px;
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+} */
+
+.resume_button {
+
+   /* margin-top: 100px; */
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+   -webkit-border-radius: 0.8rem;
+   -moz-border-radius: 0.8rem;
+   border-radius: 1rem;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 1.5rem;
+   font-weight: 100;
+   padding: 1.1rem;
+   -webkit-box-shadow: 0.1rem 0.1rem 2rem 0 #000000;
+   -moz-box-shadow: 0.1rem 0.1rem 2rem 0 #000000;
+   box-shadow: 0.1rem 0.1rem 2rem 0 #000000;
+   text-shadow: 0.1rem 0.1rem 2rem #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 2rem;
+   /* margin-left: px; */
+}
+
+.design_2 {
+  float: left;
+  margin-left: 0px;
+  margin-top: -1563px;
+}
+
+h1 {
+  color: #009DAE;
+}
+p {
+  color: black;
+  margin: 0;
+  font-size: 22px;
+}
+td {
+  font-size: 20px;
+  color: black;
+}
+
+ol {
+  font-style: italic;
+  font-size: 20px;
+}
+
+hr {
+  border: dotted;
+  width: 10rem;
+}
+
+
+  /* left: 50px; */
+/* }
+.bottom-container {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+} */
+
+#intro {
+  color: red;
+}
